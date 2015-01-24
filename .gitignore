@@ -7,6 +7,12 @@ trunk/TouchMouse.vcxproj.user
 
 trunk/TouchMouse.aps
 
+trunk/TouchMouse.sdf
+
+trunk/TouchMouse/Debug
+
+trunk/TouchMouse/Release
+
 *.ncb
 
 *.plg

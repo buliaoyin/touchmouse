@@ -138,10 +138,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="dll_main.cpp" />
+    <ClCompile Include="Timer.cpp" />
+    <ClCompile Include="TouchEvent.cpp" />
+    <ClCompile Include="TouchEventConf.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="main.h" />
+    <ClInclude Include="Timer.h" />
+    <ClInclude Include="TouchEvent.h" />
+    <ClInclude Include="TouchEventConf.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="TouchMouse.def" />
